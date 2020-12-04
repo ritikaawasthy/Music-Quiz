@@ -1,2 +1,2 @@
 # Music Quiz
- Imade this fun quiz using javascript andchalk
+ I made this fun quiz using javascript and chalk
